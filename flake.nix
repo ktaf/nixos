@@ -3,7 +3,7 @@
 
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-23.05";
     hyprland.url = "github:hyprwm/Hyprland";
    };
 
@@ -30,7 +30,7 @@
       };
   }
 
-#nixos-22.11
+#nixos-23.05
 
 
 
